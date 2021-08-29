@@ -13,10 +13,6 @@
   <img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 	
-  <a target="_blank" href="mailto:brunamorim.silva@outlook.com">
-  <img heigth="29" alt="Mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>	
-  
   _________________________________________________________________________________________________________________________________________
 ### :crayon: Sobre:
 <h4> Hobbies: :book: Leitura |  :headphones: Rock e Música Clássica |  🗺️ Viagens </h4>
