@@ -1,6 +1,5 @@
 <div align="center">
-	<br>
- <img src="https://www.animatedimages.org/data/media/635/animated-star-trek-image-0003.gif" border="0" alt="animated-star-trek-image-0003" />
+ <img src="https://www.animatedimages.org/data/media/635/animated-star-trek-image-0003.gif" border="0" alt="animated-star-trek-image-0003"/>
 
 <h1 align="center"> Olá, eu sou a Bruna Amorim :vulcan_salute: </h1>
 <h3 align="center"> Desenvolvedora Frontend e Web Designer </h3> 
