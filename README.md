@@ -8,7 +8,7 @@
   <img alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
-  <a target="_blank" href="https://www.behance.net/brunaamorim10">
+  <a target="_blank" href="https://www.behance.net/brunamorim">
   <img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 	
@@ -32,3 +32,15 @@
 <img height="29" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img heigth="20" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img heigth="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+	
+_________________________________________________________________________________________________________________________________________	
+
+### :mag: Dúvidas e Perguntas:
+<h4> Mande suas dúvidas. Ficarei feliz em ajudar! :D </h4> 
+
+<a target="_blank" href="https://www.instagram.com/bu_amorim/"> 
+ <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a target="_blank" href="mailto:brunamorim.silva@outlook.com">
+  <img heigth="29" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>	
