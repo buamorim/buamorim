@@ -13,7 +13,7 @@
   </a>
 	
   _________________________________________________________________________________________________________________________________________
-### :crayon: Sobre:
+### :crayon: Sobre mim:
 <h4> Hobbies: :book: Leitura |  :headphones: Rock e Música Clássica |  🗺️ Viagens </h4>
  
  :rocket: **"A lógica é apenas o princípio da sabedoria e não o seu fim."**
