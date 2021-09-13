@@ -45,6 +45,6 @@ ________________________________________________________________________________
 </a>
 
 
- ### :hand_over_mouth::wave: Sorrir faz bem para saúde, então antes de ir embora: SORRIA! 
+ ### :hand_over_mouth::wave: Sorrir faz bem para saúde, então antes de sair: SORRIA! 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>	
