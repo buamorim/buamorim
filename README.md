@@ -14,7 +14,7 @@
 	
   _________________________________________________________________________________________________________________________________________
 ### :crayon: Sobre mim:
- Meus hobbies: :book: Leitura | 🗺️ Viagens | :woman_cook: Cozinhar |
+ Meus hobbies: :book: Leitura | 🗺️ Viagens | :woman_cook: Cozinhar 
  
  :rocket: **"A lógica é apenas o princípio da sabedoria e não o seu fim."**
   _________________________________________________________________________________________________________________________________________
