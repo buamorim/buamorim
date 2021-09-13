@@ -14,7 +14,7 @@
 	
   _________________________________________________________________________________________________________________________________________
 ### :crayon: Sobre mim:
-<h4> Meus hobbies: :book: Leitura |  :headphones: Rock e Música Clássica |  🗺️ Viagens </h4>
+ Meus hobbies: :book: Leitura | 🗺️ Viagens | :woman_cook: Cozinhar |
  
  :rocket: **"A lógica é apenas o princípio da sabedoria e não o seu fim."**
   _________________________________________________________________________________________________________________________________________
@@ -42,4 +42,9 @@ ________________________________________________________________________________
 </a>
 <a target="_blank" href="mailto:brunamorim.silva@outlook.com">
   <img heigth="29" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>	
+</a>
+
+
+ ### :hand_over_mouth::wave: Sorrir faz bem para saúde, então antes de ir embora: SORRIA! 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>	
